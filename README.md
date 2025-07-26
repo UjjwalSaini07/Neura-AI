@@ -1,4 +1,5 @@
 # Neura-AI
+
 ### Experience the Future of Conversational AI 🌟
 Step into the future of communication with our ultra-fast chatbot, powered by AI SDK, Groq AI, and Gemini AI. Designed for speed and intelligence, it offers natural, human-like conversations that feel effortless. With built-in **speech-to-text**, you can easily interact using your voice and get instant, accurate responses. Ideal for customer support, virtual assistants, and interactive applications, this chatbot redefines how you connect with technology. 🚀
 
